@@ -1,5 +1,4 @@
-# [DEPRECATED] Treasure Extractor -- Booru by CLORO
-## This repository is deprecated and no longer works. A new version will be made soon.
+# Treasure Extractor -- Booru by CLORO
 Extracts randomized images from Booru websites.
 
 This program uses the [Booru API.](https://www.npmjs.com/package/booru)
